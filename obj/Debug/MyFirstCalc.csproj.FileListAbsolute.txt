@@ -1,0 +1,15 @@
+C:\Users\Никита\Desktop\C#\WPF\MyFisrtCalc\MyFirstCalc\bin\Debug\MyFirstCalc.exe.config
+C:\Users\Никита\Desktop\C#\WPF\MyFisrtCalc\MyFirstCalc\bin\Debug\MyFirstCalc.exe
+C:\Users\Никита\Desktop\C#\WPF\MyFisrtCalc\MyFirstCalc\bin\Debug\MyFirstCalc.pdb
+C:\Users\Никита\Desktop\C#\WPF\MyFisrtCalc\MyFirstCalc\obj\Debug\MyFirstCalc.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\C#\WPF\MyFisrtCalc\MyFirstCalc\obj\Debug\MainWindow.g.cs
+C:\Users\Никита\Desktop\C#\WPF\MyFisrtCalc\MyFirstCalc\obj\Debug\App.g.cs
+C:\Users\Никита\Desktop\C#\WPF\MyFisrtCalc\MyFirstCalc\obj\Debug\MyFirstCalc_MarkupCompile.cache
+C:\Users\Никита\Desktop\C#\WPF\MyFisrtCalc\MyFirstCalc\obj\Debug\MyFirstCalc_MarkupCompile.lref
+C:\Users\Никита\Desktop\C#\WPF\MyFisrtCalc\MyFirstCalc\obj\Debug\MainWindow.baml
+C:\Users\Никита\Desktop\C#\WPF\MyFisrtCalc\MyFirstCalc\obj\Debug\MyFirstCalc.g.resources
+C:\Users\Никита\Desktop\C#\WPF\MyFisrtCalc\MyFirstCalc\obj\Debug\MyFirstCalc.Properties.Resources.resources
+C:\Users\Никита\Desktop\C#\WPF\MyFisrtCalc\MyFirstCalc\obj\Debug\MyFirstCalc.csproj.GenerateResource.cache
+C:\Users\Никита\Desktop\C#\WPF\MyFisrtCalc\MyFirstCalc\obj\Debug\MyFirstCalc.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\C#\WPF\MyFisrtCalc\MyFirstCalc\obj\Debug\MyFirstCalc.exe
+C:\Users\Никита\Desktop\C#\WPF\MyFisrtCalc\MyFirstCalc\obj\Debug\MyFirstCalc.pdb
